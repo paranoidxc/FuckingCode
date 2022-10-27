@@ -11,8 +11,8 @@ Fucking The Whole World
 - Microsoft Edge
 - JavaScript
 - Python
-- 美JB团
-- 抖肝门音
+- 美JB 兴
+- 抖肝门鸣
 
 ## lua 优雅？
 ## nvim + lsp 居然比 JB 家的卡 ？狗日的 lsp 狗B 狗啊3
