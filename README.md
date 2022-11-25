@@ -1,9 +1,13 @@
 # FuckingCode
 
-Learing Hard
+## Learing The Hard Way
+
+- But How Do It Know
+- Build Your Own Lisp
+- Understanding Unix Linux Programming
 
 
-Fucking The Whole World
+# Fucking The Whole World
 
 ## 毒瘤
 - Chrome
@@ -25,3 +29,5 @@ Fucking The Whole World
 ## 熊孩子 熊父母不管 由天管？该出手就出手 被社会性死亡 心态崩了 直接让熊猪一家升天 所有的键盘侠都有罪
 ## 你说法我就想笑 法律不能给你一个交代那就自己给自己一个交代
 ## 越深入底层 看高级语言就像一坨屎 而前端这坨就要溢出了 我自以为在说编程语言 把主体换成人类毫无违和
+## Obsidian 的搜索像坨屎，笔记最重要的是能找得到
+## 看看旁边尽是 精神被高度污染 吃着人血馒头
