@@ -17,6 +17,8 @@
 - Python
 - 美JB 兴
 - 抖肝门鸣
+- CSDN
+- 码农鸡市
 
 
 ### Fucking
