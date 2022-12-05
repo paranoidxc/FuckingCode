@@ -5,6 +5,7 @@
 - But How Do It Know
 - Build Your Own Lisp
 - Understanding Unix Linux Programming
+- Learn Vimscript the Hard Way
 
 
 ## Fucking The Whole World
