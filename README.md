@@ -6,6 +6,7 @@
 - Build Your Own Lisp
 - Understanding Unix Linux Programming
 - Learn Vimscript the Hard Way
+- 代码之髓
 
 
 ## Fucking The Whole World
@@ -20,6 +21,7 @@
 - 抖肝门鸣
 - CSDN
 - 码农鸡市
+- JB以岭
 
 
 ### Fucking
