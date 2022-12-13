@@ -7,6 +7,7 @@
 - Understanding Unix Linux Programming
 - Learn Vimscript the Hard Way
 - 代码之髓
+- Learn regex the easy way
 
 
 ## Fucking The Whole World
@@ -24,7 +25,7 @@
 - JB以岭
 
 
-### Fucking
+### 为何人类就是狗改不了吃屎
 - lua 优雅？
 - nvim + lsp 居然比 JB 家的卡 ？狗日的 lsp 狗B 狗啊3
 - web3.0? 刨他们的祖坟 世界的另一头还打的侵略战 有条屌还想上天 还是宇宙降为一维合适！
